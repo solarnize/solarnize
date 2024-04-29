@@ -1,0 +1,22 @@
+ 
+{
+    "name": "Solnarize",
+    "symbol": "$SRIZE",
+    "description": "Our mission is to create a sustainable and community driven ecosystem where energy transaction contributes to positive change and innovation within the crypto space, powered by $SRIZE",
+    "image": "https://raw.githubusercontent.com/solarnize/solarnize/main/Solnarizelogo.png",
+    "website": "https://solnarize.com",
+    "telegram": "https://t.me/solnarize",
+    "twitter": "https://twitter.com/solnarize",
+    "creator": {
+      "name": "Solnarize",
+      "site": "https://solnarize.com",
+      "website": "https://solnarize.com"
+    },
+    "extensions": {  
+      "telegram": "https://t.me/solnarize",
+      "twitter": "https://twitter.com/solnarize",
+      "website": "https://solnarize.com"
+  }
+    
+  }
+   
